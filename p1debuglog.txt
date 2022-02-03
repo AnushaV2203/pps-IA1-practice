@@ -1,8 +1,5 @@
-GNU bash, version 4.4.20(1)-release (x86_64-pc-linux-gnu)
- cloning into https://github.com/AnushaV2203/pps-IA1-practice...
- 
- gcc -g p1final.c
- gdb a.out
+ gcc -g p1final.c
+ gdb a.out
 GNU gdb (Ubuntu 8.1.1-0ubuntu1) 8.1.1
 Copyright (C) 2018 Free Software Foundation, Inc.
 License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
